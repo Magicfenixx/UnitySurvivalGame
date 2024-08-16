@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: bfe02c69351e31849bbb88d575fa6812
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ChunkPrefab: {instanceID: 0}
+  - BlockPrefab: {instanceID: 0}
+  - ItemPrefab: {instanceID: 0}
+  - PlayerPrefab: {instanceID: 0}
+  - ZombiePrefab: {instanceID: 0}
+  - InventoryPrefab: {instanceID: 0}
+  - HealthBarPrefab: {instanceID: 0}
+  - BombPrefab: {instanceID: 0}
+  - ExplosionParticlesPrefab: {instanceID: 0}
+  - JumpAudio: {instanceID: 0}
+  - SparklingAudio: {instanceID: 0}
+  - ExplosionAudio: {instanceID: 0}
+  - ShootAudio: {instanceID: 0}
+  - AmbientAudio: {instanceID: 0}
+  - GrassSprite: {instanceID: 0}
+  - StoneSprite: {instanceID: 0}
+  - GoldSprite: {instanceID: 0}
+  - GunSprite: {instanceID: 0}
+  - BombSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
